@@ -1,0 +1,65 @@
+
+
+<style type="text/css">
+<!--
+
+.style1 {
+	color: #FFCC00;
+	font-weight: bold;
+	font-style: italic;
+	font-family: "Book Antiqua";
+	font-size: 24px;}
+
+.style2 {
+	color: #000000;
+	font-weight: bold;
+    font-family: "Arial";
+	font-size: 16px;}
+
+.style3 {
+	font-size: 18px;
+	font-family: "Book Antiqua";
+	font-style: italic;
+	font-weight: bold;
+	color: #FFCC00;
+}
+
+.style4 {
+	color: #08CEF5;
+	font-weight: bold;
+	font-style: italic;
+	font-family: "Book Antiqua";
+	font-size: 24px;
+}
+body {
+	background-color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+
+}
+a:link {
+	color: #FFCC00;
+	text-decoration: none;
+}
+a:visited {
+	color: #FFCC00;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0066;
+	text-decoration: none;
+}
+a:active {
+	color: #00FF00;
+	text-decoration: none;
+}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif, Times New Roman;
+}
+
+-->
+</style>
+</head>
+
